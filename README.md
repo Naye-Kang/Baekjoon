@@ -1,2 +1,2 @@
 # Baekjoon
-Practice with Baekjoon 
+Practice coding test with Baekjoon 
